@@ -51,6 +51,8 @@ Des personnes morales légalement constituées (notamment des associations décl
 
 Les agents salariés de l’association ne peuvent pas être membres.
 
+Les prestataires, personnes morales ou physiques, liés par un contrat (ou une convention) avec l'association ne peuvent pas être membre. Cette disposition est valable dès la signature du contrat (ou de la convention) et se termine 12 mois après la fin de la prestation.
+
 Les mineurs peuvent être membres de l’association à partir de 13 ans. Tous les mineurs devront produire une autorisation parentale. A défaut, ils ne pourront obtenir l’agrément du conseil d’administration.
 
 
@@ -59,8 +61,9 @@ Les mineurs peuvent être membres de l’association à partir de 13 ans. Tous l
 La qualité de membre se perd par :
 
 * la démission.
-* le décès ;
-* la radiation pour non-paiement de la cotisation ou pour motif grave prononcée par le conseil d'administration.
+* le décès ;
+* la radiation pour non-paiement de la cotisation ou pour motif grave prononcée par le conseil d'administration ;
+* la signature d'un contrat de prestation (ou convention) avec l'association.
 
 La radiation et la démission n’interdisent pas au membre radié ou démissionnaire de solliciter ultérieurement sa ré-adhésion.
 
@@ -156,8 +159,6 @@ Les personnes morales membres de l’association sont représentées par la pers
 Chaque membre ayant réglé sa cotisation un mois avant la tenue de l’assemblée dispose d’une voix.
 
 Les membres adhérents et bienfaiteurs ayant réglé leur cotisation moins d’un mois avant la date de tenue de l’assemblée générale ont accès à l’assemblée générale avec voix consultative.
-
-En cas de convention contractée entre l’association et un membre, celui-ci ne peut participer au vote de la résolution le concernant.
 
 
 ## 10-3 – Convocation et tenue de l’assemblée
