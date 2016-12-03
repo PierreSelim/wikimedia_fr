@@ -1,218 +1,245 @@
-# Article 1er – Formation
-
-Il est fondé entre les adhérents aux présents statuts une association régie par la loi du 1er juillet 1901 et le décret du 16 août 1901, ayant pour titre « Wikimédia France – Association pour le libre partage de la connaissance ».
-
-
-# Article 2 – But et Moyens d’actions
-
-Cette association a pour but le soutien de la connaissance libre notamment au travers des projets Wikimédia.
-
-Les moyens d’action de l’association sont la numérisation d’œuvres libres, la réalisation d’œuvre au moyen de contenus libres, les interventions de sensibilisations publiques, l’organisation et/ou la participation à des campagnes, conférences, séminaires et congrès nationaux et internationaux, l’édition et/ou la diffusion de tous documents et supports d’informations concourant à l’objet de l’association, la création de partenariats, la commande d’études, ou toutes actions pouvant aider à atteindre les buts de l’association.
+% Statuts de l'association Wikimedia France
+% Révision du 29 octobre 2016
 
 
-# Article 3 – Siège social et durée
+# But et composition de l'association
 
-Le siège social est fixé à Paris.
+## Article 1​er
 
-Il pourra être transféré par simple décision du conseil d'administration ratifiée par l'assemblée générale.
+L'association dite  « Wikimédia France – Association pour le libre partage de la connaissance » fondée le 24 janvier 2005 (Journal Officiel du 5 mars 2005) a pour but de soutenir la connaissance libre notamment au travers des projets wikimédia.
 
-La modification du siège social doit être déclarée à l’autorité préfectorale compétente.
+Sa durée est illimitée.
 
-La durée de l’association est illimitée.
-
-
-# Article 4 – Membres de l’Association
-
-## 4-1 – Composition
-
-L'association se compose de :
-
-* Membres adhérents ;
-* Membres d'honneur ;
-* Membres bienfaiteurs.
-
-Sont membres adhérents ceux qui ont pris l’engagement de verser la cotisation annuelle telle que fixée par délibération de l’assemblée générale.
-
-Sont membres bienfaiteurs, les personnes qui versent la cotisation annuelle telle que fixée par l'assemblée générale et un droit d'entrée complémentaire également fixé par l'assemblée générale.
-
-Sont membres d’honneur ceux qui ont rendu des services signalés à l’association ; ils sont dispensés de cotisation.
+Elle a son siège social à Paris (75).
 
 
-## 4-2 – Conditions d'admission
+## Article 2
 
-Pour faire partie de l'association, il faut être agréé par le conseil d’administration.
-
-Il faut par ailleurs adhérer aux présents statuts ainsi qu’au règlement intérieur et s’acquitter, sauf pour les membres d’honneur, de la cotisation prévue.
+Les moyens d’action de l’association sont la numérisation d’œuvres libres, la réalisation d’œuvres au moyen de contenus libres, les interventions de sensibilisations publiques, l’organisation et/ou la participation à des campagnes, conférences, séminaires et congrès nationaux et internationaux, l’édition et/ou la diffusion de tous documents et supports d’informations concourant à l’objet de l’association, la création de partenariats, la commande d’études, ou toutes actions pouvant aider à atteindre les buts de l’association.
 
 
-## 4-3 – Qualité requise
+## Article 3
 
-Des personnes morales légalement constituées (notamment des associations déclarées conformément à l’article 5 de la loi du 1er juillet 1901) peuvent être admises comme membres de l’association. Elles désignent alors une personne physique pour les représenter au sein de l’association.
+L'association se compose de membres :
 
-Les agents salariés de l’association ne peuvent pas être membres.
+* adhérents ;
+* bienfaiteurs ;
+* d’honneur.
 
-Les prestataires, personnes morales ou physiques, liés par un contrat (ou une convention) avec l'association ne peuvent pas être membre. Cette disposition est valable dès la signature du contrat (ou de la convention) et se termine 12 mois après la fin de la prestation.
+Pour être membre, il faut être agréé par le conseil d'administration.
 
-Les mineurs peuvent être membres de l’association à partir de 13 ans. Tous les mineurs devront produire une autorisation parentale. A défaut, ils ne pourront obtenir l’agrément du conseil d’administration.
+La cotisation annuelle est de :
 
+* 12 € pour les membres adhérents ;
+* 100 € au moins pour les membres bienfaiteurs.
 
-## 4-4 – Radiations
+Les cotisations annuelles peuvent être relevées par décision de l'assemblée générale.
 
-La qualité de membre se perd par :
-
-* la démission.
-* le décès ;
-* la radiation pour non-paiement de la cotisation ou pour motif grave prononcée par le conseil d'administration ;
-* la signature d'un contrat de prestation (ou convention) avec l'association.
-
-La radiation et la démission n’interdisent pas au membre radié ou démissionnaire de solliciter ultérieurement sa ré-adhésion.
+Le titre de membre d'honneur peut être décerné par le conseil d'administration aux personnes qui rendent ou qui ont rendu des services signalés à l'association. Ce titre confère aux personnes, qui l'ont obtenu, le droit de faire partie de l'assemblée générale sans être tenues de payer une cotisation.
 
 
-# Article 5 – Ressources de l'association
+## Article 4
 
-Les ressources de l'association comprennent :
+La qualité de membre de l'association se perd :
 
-* le montant des droits d'entrée et des cotisations ;
-* les subventions de l'État, des collectivités locales et de leurs établissements publics ;
+* Par la démission.
+* Par la radiation prononcée pour non-paiement de la cotisation ou pour motifs graves par le conseil d'administration, sauf recours à l'assemblée générale. Le membre intéressé est préalablement appelé à fournir ses explications.
+* Par le décès.
+* Par la signature d'un contrat de prestation (ou convention) avec l'association.
+
+
+# Administration et fonctionnement
+
+## Article 5
+
+L'association est administrée par un conseil dont le nombre des membres, fixé par délibération de l'assemblée générale, est compris entre 5 membres au moins et 12 membres au plus. Les membres du conseil sont élus au scrutin secret, pour 2 ans, par l'assemblée générale et choisis dans les catégories de membres dont se compose cette assemblée.
+
+En cas de vacance, le conseil pourvoit provisoirement au remplacement de ses membres. Il est procédé à leur remplacement définitif par la plus prochaine assemblée générale.
+
+Les pouvoirs des membres ainsi élus prennent fin à l'époque où devrait normalement expirer le mandat des membres remplacés.
+
+Le renouvellement du conseil a lieu par moitié.
+
+Les membres sortants sont rééligibles.
+
+Chaque administrateur ne peut détenir plus d'un pouvoir.
+
+Le conseil choisit parmi ses membres, au scrutin secret, un bureau composé d'un président, d'un vice-président, d'un secrétaire et d'un trésorier.
+
+Le bureau est élu pour 1 an.
+
+## Article 6
+
+Le conseil se réunit une fois au moins tous les six mois et chaque fois qu'il est convoqué par son président ou sur la demande du tiers des membres du conseil d’administration ou du quart des membres de l’association.
+
+La présence du tiers au moins des membres du conseil d'administration est nécessaire pour la validité des délibérations.
+
+Les décisions sont prises à la majorité des voix des participants. En cas de partage des voix, celle du président est prépondérante.
+
+Il est tenu procès-verbal des séances.
+
+Les procès-verbaux sont signés par le président et le secrétaire. Ils sont établis sans blancs, ni ratures, sur des feuillets numérotés et conservés au siège de l'association.
+
+## Article 7
+
+Les membres du conseil d'administration ne peuvent recevoir aucune rétribution à raison des fonctions qui leur sont confiées.
+
+Des remboursements de frais sont seuls possibles. Ils doivent faire l'objet d'une décision expresse du conseil d'administration, statuant hors de la présence des intéressés ; des justifications doivent être produites qui font l'objet de vérifications.
+
+Les agents rétribués de l'association peuvent être appelés par le président à assister avec voix consultative, aux séances de l'assemblée générale et du conseil d'administration.
+
+## Article 8
+
+L'assemblée générale de l'association comprend les membres adhérents, les membres bienfaiteurs et les membres d’honneur.
+
+Elle se réunit une fois par an et chaque fois qu'elle est convoquée par le conseil d'administration ou sur la demande du quart au moins des membres de l’association.
+
+Son ordre du jour est réglé par le conseil d’administration.
+
+Elle choisit son bureau qui peut être celui du conseil d’administration.
+
+Elle entend les rapports sur la gestion du conseil d’administration, sur la situation financière et morale de l’association.
+
+Elle approuve les comptes de l'exercice clos, vote le budget de l'exercice suivant, délibère sur les questions mises à l'ordre du jour et pourvoit, s'il y a lieu au renouvellement des membres du conseil d'administration (un vote par correspondance peut être prévu en ce qui concerne les élections).
+
+Il est tenu procès-verbal des séances.
+
+Les procès-verbaux sont signés par le président et le secrétaire. Ils sont établis sans blancs, ni ratures, sur des feuillets numérotés et conservés au siège de l'association.
+
+Chaque membre présent ne peut détenir plus de 5 pouvoirs en sus du sien.
+
+En cas de partage des voix, celle du président est prépondérante.
+
+Le rapport annuel et les comptes sont adressés chaque année à tous les membres de l'association.
+
+Sauf application des dispositions de l'article précédent, les agents rétribués, non membres de l'association, n'ont pas accès à l'assemblée générale.
+
+
+## Article 9
+
+Le président représente l'association dans tous les actes de la vie civile.
+
+Il ordonnance les dépenses. Il peut donner délégation dans des conditions qui sont fixées par le règlement intérieur.
+
+En cas de représentation en justice, le président ne peut être remplacé que par un mandataire agissant en vertu d'une procuration spéciale.
+
+Les représentants de l'association doivent jouir du plein exercice de leurs droits civils.
+
+
+## Article 10
+
+Les délibérations du conseil d'administration relatives aux acquisitions, échanges et aliénations d'immeubles nécessaires au but poursuivi par l'association, constitutions d'hypothèques sur lesdits immeubles, baux excédant neuf années, aliénations de biens rentrant dans la dotation et emprunts doivent être approuvées par l'assemblée générale.
+
+
+## Article 11
+
+L’acceptation des dons et legs par délibération du conseil d’administration prend effet dans les conditions prévues par l’article 910 du Code civil.
+
+Les délibérations de l'assemblée générale relatives aux aliénations de biens mobiliers et immobiliers dépendant de la dotation, à la constitution d'hypothèques et aux emprunts, ne sont valables qu'après approbation administrative.
+
+
+## Article 12
+
+Des groupes locaux et des groupes thématiques peuvent être constitués. Le conseil d’administration doit acter chacune de ces entités ainsi que le choix du référent.
+
+Ce dernier est mandaté pour une durée d’un an à compter de l’approbation par le conseil d’administration.
+
+Son mandat peut être renouvelé.
+
+Le mandat peut être interrompu par démission du référent ou par décision du conseil d’administration.
+
+
+# III. Dotation, ressources annuelles
+
+## Article 13
+
+La dotation comprend :
+
+* les immeubles nécessaires au but recherché par l'association ainsi que des bois, forêts ou terrains à boiser ;
+* les capitaux provenant des libéralités, à moins que l'emploi immédiat n'en ait été décidé ;
+* Les sommes versées pour le rachat des cotisations ;
+* le dixième au moins, annuellement capitalisé, du revenu net des biens de l'association ;
+* la partie des excédents de ressources qui n'est pas nécessaire au fonctionnement de l'association pour l'exercice suivant.
+
+
+## Article 14
+
+Tous les capitaux mobiliers, y compris ceux de la dotation, sont placés en titres nominatifs, en titres pour lesquels est établi le bordereau de références nominatives prévu à l'article 55 de la loi n° 87-416 du 17 juin 1987 sur l'épargne ou en valeurs admises par la Banque de France en garantie d'avance.
+
+
+## Article 15
+
+Les recettes annuelles de l'association se composent :
+
+* du revenu de ses biens à l'exception de la fraction prévue au 4° de l'article 13 ;
+* des cotisations et souscriptions de ses membres ;
+* des subventions de l'Etat, des régions, des départements, des communes et des établissements publics ;
 * du produit des libéralités dont l’emploi est décidé au cours de l’exercice ;
-* des ressources créées à titre exceptionnel et, s’il y a lieu, avec l’agrément de l’autorité compétente ;
+* des ressources créées à titre exceptionnel et, s'il y a lieu, avec l'agrément de l'autorité compétente (quêtes, conférences, tombolas, loteries, concerts, bals et spectacles, etc., autorisés au profit de l'association) ;
 * du produit des ventes et des rétributions perçues pour service rendu.
 
 
-# Article 6 – Comptabilité
+## Article 16
 
-Il est tenu une comptabilité faisant apparaître annuellement un compte de résultat, un bilan et une annexe, conformément aux dispositions du règlement du 16 février 1999 relatif aux modalités d'établissement des comptes annuels des associations et fondations. L’exercice comptable va du 1er juillet au 30 juin de l’année suivante.
+Il est tenu une comptabilité faisant apparaître annuellement un compte de résultat, un bilan et une annexe.
 
-Chaque établissement de l’association doit tenir une comptabilité distincte qui forme un chapitre spécial de la comptabilité d’ensemble de l’association.
+Chaque établissement de l'association doit tenir une comptabilité distincte qui forme un chapitre spécial de la comptabilité d'ensemble de l'association.
 
+Il est justifié chaque année auprès du préfet du département, du ministre de l'intérieur et du ministre chargé de l’éducation nationale, de l’enseignement supérieur et de la recherche et le ministre de la culture et de la communication de l'emploi des fonds provenant de toutes les subventions accordées au cours de l'exercice écoulé.
 
-# Article 7 – Conseil d'administration
 
-## 7-1 – Objet
+# IV. Modification des statuts et dissolution
 
-Le Conseil d’administration a pour objet de mettre en œuvre les décisions de l’assemblée générale, d’organiser et d’animer la vie de l’association dans le cadre fixé par les statuts et le règlement intérieur.
+## Article 17
 
+Les statuts peuvent être modifiés par l'assemblée générale sur la proposition du conseil d'administration ou sur la proposition du dixième des membres dont se compose l'assemblée générale.
 
-## 7-2 – Composition
+Dans l'un et l'autre cas, les propositions de modifications sont inscrites à l'ordre du jour de la prochaine assemblée générale, lequel doit être envoyé à tous les membres de l'assemblée au moins quinze jours à l'avance.
 
-L'association est dirigée par un conseil d’administration de 12 membres choisis parmi les membres de l’assemblée générale, à jour de leur cotisation un mois avant la date de tenue de l’assemblée. Ils sont élus pour 2 exercices comptables, par l'assemblée générale. Leur mandat se termine lors de la tenue de l’assemblée générale d’approbation des comptes portant sur le deuxième exercice clos depuis leur élection.
+L'assemblée doit se composer du quart au moins des membres en exercice. Si cette proportion n'est pas atteinte, l'assemblée est convoquée de nouveau, mais à quinze jours au moins d'intervalle, et cette fois, elle peut valablement délibérer, quel que soit le nombre des membres présents ou représentés.
 
-Nul ne peut faire partie du conseil s’il n’est pas majeur.
+Dans tous les cas, les statuts ne peuvent être modifiés qu'à la majorité des deux tiers des membres présents ou représentés.
 
-Les membres sont rééligibles.
 
-Le conseil est renouvelé chaque année par moitié.
+## Article 18
 
+L'assemblée générale, appelée à se prononcer sur la dissolution de l'association et convoquée spécialement à cet effet, dans les conditions prévues à l'article précédent, doit comprendre, au moins, la moitié plus un des membres en exercice.
 
-## 7-3 – Bureau
+Si cette proportion n'est pas atteinte, l'assemblée est convoquée de nouveau, mais à quinze jours au moins d'intervalle, et cette fois, elle peut valablement délibérer, quel que soit le nombre des membres présents ou représentés.
 
-Le conseil d'administration choisit parmi ses membres, un bureau composé de :
+Dans tous les cas, la dissolution ne peut être votée qu'à la majorité de deux tiers des membres présents ou représentés.
 
-* un président ;
-* un vice-président ;
-* un secrétaire et si besoin est, un secrétaire adjoint ;
-* un trésorier et un trésorier-adjoint.
 
-Les réunions du bureau ont pour but de préparer le Conseil d’administration.
+## Article 19
 
-Un nouveau bureau est élu après chaque renouvellement de la moitié des sièges du Conseil d’administration ou sur proposition d’au moins un tiers des membres du Conseil d’administration.
+En cas de dissolution, l'assemblée générale désigne un ou plusieurs commissaires, chargés de la liquidation des biens de l'association.
 
+Elle attribue l'actif net à un ou plusieurs établissements analogues, publics, ou reconnus d'utilité publique, ou à des établissements visés à l'article 6, alinéa 5, de la loi du 1er juillet 1901 modifiée.
 
-## 7-4 – Réunions
 
-Le conseil d'administration se réunit une fois au moins tous les six mois, ainsi qu’à la demande du tiers des membres du Conseil d’administration ou du quart des membres de l’association, sur convocation du président.
+## Article 20
 
-Les décisions sont prises, à la majorité des voix ; en cas de partage, la voix du président est prépondérante.
+Les délibérations de l'assemblée générale prévues aux articles 17, 18 et 19 sont adressés, sans délai, au ministre de l'intérieur, au ministre chargé de de l’éducation nationale, de l’enseignement supérieur et de la recherche et au ministre de la culture et de la communication.
 
-La participation d’un tiers au moins des membres est nécessaire pour que le Conseil d’administration puisse délibérer valablement.
+Elles ne sont valables qu'après approbation du Gouvernement.
 
 
-# Article 8 – Président
+# V. Surveillance et règlement intérieur
 
-Le Président est le représentant légal de l’association. Il représente l’association en justice et dans tous les actes de la vie civile.
+## Article 21
 
-Il anime l’association, coordonne les activités, dirige l’administration de l’association et préside l’assemblée générale. Il ordonnance les dépenses. Il peut donner délégation de pouvoir.
+Le président doit faire connaître dans les trois mois, à la préfecture du département ou à la sous-préfecture de l'arrondissement où l'association a son siège social, tous les changements survenus dans l'administration ou la direction de l'association.
 
+Les registres de l'association et ses pièces de comptabilité sont présentés sans déplacement, sur toute réquisition du ministre de l'intérieur ou du préfet, à eux-mêmes ou à leur délégué ou à tout fonctionnaire accrédité par eux.
 
-# Article 9 – Indemnités
+Le rapport annuel et les comptes - y compris ceux des comités locaux - sont adressés chaque année au préfet du département, au ministre de l'intérieur, au ministre chargé de l’éducation nationale, de l’enseignement supérieur et de la recherche et au ministre de la culture et de la communication.
 
-Toutes les fonctions, y compris celles des membres du conseil d’administration et du bureau, sont gratuites et bénévoles.
 
-Seuls les frais occasionnés par l’accomplissement de leur mandat sont remboursés sur justificatifs.
+## Article 22
 
-Les notes de frais des membres du conseil d’administration sont approuvées par le trésorier et le trésorier adjoint, à l’exception des notes de frais du trésorier, qui ne sont approuvées que par le trésorier adjoint, et du trésorier adjoint qui ne sont approuvées que par le trésorier.
+Le ministre de l'intérieur, le ministre chargé de l’éducation nationale, de l’enseignement supérieur et de la recherche et le ministre de la culture et de la communication ont le droit de faire visiter par leurs délégués les établissements fondés par l'association et de se faire rendre compte de leur fonctionnement.
 
-Le rapport financier présenté à l’assemblée générale ordinaire présente, par bénéficiaire, les remboursements de frais de mission, de déplacement ou de représentation.
 
+## Article 23
 
-# Article 10 – Assemblée générale ordinaire
-
-## 10-1 – Composition
-
-L'assemblée générale ordinaire comprend les membres d'honneur, les membres bienfaiteurs et les membres adhérents.
-
-Les personnes morales membres de l’association sont représentées par la personne désignée lors de l’adhésion.
-
-
-## 10-2 – Droit de vote
-
-Chaque membre ayant réglé sa cotisation un mois avant la tenue de l’assemblée dispose d’une voix.
-
-Les membres adhérents et bienfaiteurs ayant réglé leur cotisation moins d’un mois avant la date de tenue de l’assemblée générale ont accès à l’assemblée générale avec voix consultative.
-
-
-## 10-3 – Convocation et tenue de l’assemblée
-
-L'assemblée générale ordinaire se réunit au moins une fois par an et à chaque fois que le quart au moins de ses membres en formule la demande.
-
-Les membres de l'association sont convoqués par le Conseil d’administration.
-
-L'ordre du jour est indiqué sur les convocations.
-
-Le président, assisté des membres du conseil d'administration, préside l'assemblée et expose la situation morale de l'association.
-
-L’assemblée après avoir délibéré, se prononce sur les rapports moraux et d’activités.
-
-Le trésorier rend compte de l’exercice financier et du bilan financier et soumet les comptes annuels (bilan, compte de résultat et annexe) à l'approbation de l'assemblée dans un délai de six mois après la clôture des comptes.
-
-L’assemblée délibère le cas échéant sur les orientations à venir et se prononce sur le budget correspondant.
-
-L’assemblée générale fixe le montant des cotisations annuelles et du droit d’entrée à verser par les différentes catégories de membres.
-
-Sont ensuite abordés les autres points inscrits à l’ordre du jour.
-
-Il est procédé, après épuisement de l'ordre du jour, au remplacement des membres du conseil sortants.
-
-
-# 10-4 – Délibérations
-
-Les délibérations de l'assemblée générale ordinaire sont prises à la majorité des membres.
-
-L'assemblée générale ne délibère valablement que si les membres participants au vote ou représentés, représentent au moins un dixième des membres de l'association. Les décisions des assemblées générales s’imposent à tous les membres, y compris les absents ou représentés.
-
-Les délibérations sont constatées par procès-verbaux.
-
-
-# Article 11 – Assemblée générale extraordinaire
-
-A la demande du Conseil d’administration ou sur la demande du quart au moins des membres  de l’association, le président convoque une assemblée générale extraordinaire, notamment pour une modification des statuts ou la dissolution de l’association, suivant les formalités prévues par l'article 13.
-
-L’assemblée générale extraordinaire ne délibère valablement que si les membres participants au vote ou représentés, représentent au moins un quart des membres de l’association.
-
-Si ce quorum n’est pas atteint, l’assemblée est convoquée de nouveau, mais à quinze jours au moins d’intervalle, quel que soit le nombre de membres participants ou représentés.
-
-Les délibérations de l'assemblée générale extraordinaire sont prises à la majorité des deux tiers des membres participants au vote.
-
-Les modalités de convocation sont identiques à celles de l’assemblée générale ordinaire.
-
-
-# Article 12 – Règlement intérieur
-
-Un règlement intérieur est approuvé par délibération du conseil d'administration qui le fait ratifier par l'assemblée générale à la plus prochaine assemblée.
-
-Ce règlement est destiné à fixer les divers points non prévus par les statuts, notamment ceux qui ont trait à l'administration interne de l'association.
-
-
-# Article 13 – Dissolution
-
-En cas de dissolution prononcée par les deux tiers au moins des membres présents à l'assemblée générale extraordinaire, un ou plusieurs liquidateurs sont nommés par celle-ci et l'actif, s'il y a lieu, est dévolu conformément à l'article 9 de la loi du 1er juillet 1901 et au décret du 16 août 1901.
+Le règlement intérieur préparé par le conseil d'administration et adopté par l'assemblée générale est adressé à la préfecture du département. Il ne peut entrer en vigueur ni être modifié qu'après approbation du ministre de l'intérieur.
